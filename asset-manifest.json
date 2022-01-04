@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dice/static/css/main.24ee6af7.css",
+    "main.js": "/dice/static/js/main.740f0164.js",
+    "static/media/Group 156-2.svg": "/dice/static/media/Group 156-2.fbae1dee20602c833e4459fbccd71e9a.svg",
+    "index.html": "/dice/index.html",
+    "main.24ee6af7.css.map": "/dice/static/css/main.24ee6af7.css.map",
+    "main.740f0164.js.map": "/dice/static/js/main.740f0164.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24ee6af7.css",
+    "static/js/main.740f0164.js"
+  ]
+}
